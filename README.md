@@ -2,8 +2,6 @@
 
 A Customer Ticket Analytics Dashboard built to give customer support leadership visibility into SLA performance, ticket resolution efficiency, and customer satisfaction (CSAT). Combines **Excel/Power Query → SQL (SQLite) → Tableau** to turn raw ticket data into an interactive dashboard.
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
 ## Business Problem
 
 Customer support leadership lacked a centralized, data-driven view of operational performance across teams and channels — leading to limited visibility into SLA adherence, difficulty spotting low-performing teams/channels, and anecdotal (rather than data-backed) decision-making.
